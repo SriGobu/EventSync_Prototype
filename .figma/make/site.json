@@ -1,0 +1,10 @@
+{
+  "description": "Manage college events, recruit volunteers and participants, and let teachers allocate students from their classes with clear progress tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
